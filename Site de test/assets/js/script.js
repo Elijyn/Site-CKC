@@ -155,9 +155,6 @@ document.getElementById("b1").addEventListener("click", function() {
         cat1.classList.add("activation");
         cat2.classList.remove("activation");
         cat3.classList.remove("activation");
-    } else {
-        cat1.classList.remove("activation");
-        maDiv.classList.add("caché");
     }
 });
 
@@ -170,9 +167,6 @@ document.getElementById("b2").addEventListener("click", function() {
         cat2.classList.add("activation");
         cat1.classList.remove("activation");
         cat3.classList.remove("activation");
-    } else {
-        cat2.classList.remove("activation");
-        maDiv2.classList.add("caché");
     }
 });
 
@@ -185,8 +179,5 @@ document.getElementById("b3").addEventListener("click", function() {
         cat3.classList.add("activation");
         cat1.classList.remove("activation");
         cat2.classList.remove("activation");
-    } else {
-        cat3.classList.remove("activation");
-        maDiv3.classList.add("caché");
     }
 });
