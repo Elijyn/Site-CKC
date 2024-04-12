@@ -1,0 +1,875 @@
+h1{
+	color: white;
+	text-align: center;
+	font-family: poppins;
+	font: normal normal normal 50px/60px Poppins;
+}
+
+h2{
+	text-align: left;
+	font: 15px Poppins;
+	letter-spacing: 0.75px;
+	color: #EA516F;
+	text-transform: uppercase;
+}
+
+h3{
+	font: normal normal normal 50px/60px Poppins;
+}
+
+ul{
+	margin: 0;
+}
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.row{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+}
+
+.site-search{
+	width: 110%;
+}
+
+.zone1{
+	background-image: url("../../assets/images/Bateausurplandeau.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 1000px;
+	padding-top: 35px;
+}
+
+.mt2{
+	margin-top: 2%;
+}
+
+.mt10{
+	margin-top: 10%;
+}
+
+.categorie{
+	display: inline;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: poppins;
+	font-size: 15px;
+}
+
+.connexion{
+	background-color: #EA516F;
+	color: white;
+	border: none;
+	font-family: poppins;
+	width: 182px;
+	height: 57px;
+}
+
+.language{
+	background: #FFFFFF65;
+	color: white;
+	opacity: 50%;
+	border: none;
+	font-family: poppins;
+	width: 57px;
+	height: 57px;
+}
+
+.zone2{
+	background-color: #EA516F;
+	height: 370px;
+}
+
+.zone2 p{
+	color: white;
+	font: normal normal normal 20px/30px Poppins;
+	margin-top: 20px;
+}
+
+.zone3 .col-lg-4{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.i1, .i2, .i3{
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.i1{
+	width: 110%;
+}
+
+
+.i2{
+	transform: skewX(-12.5deg);
+}
+
+.i3{
+	width: 110%;
+	margin-left: -10%;
+}
+
+.dessus{
+	z-index: 2;
+}
+
+
+.part1{
+	position: absolute;
+	top: 70%;
+	left: 15%;
+}
+
+.part2{
+	position: absolute;
+	top: 70%;
+	left: 15%;
+}
+
+.part3{
+	position: absolute;
+	top: 70%;
+	left: 20%;
+}
+
+.zone3 p{
+	color: white;
+	font: normal normal normal 24px/26px Poppins;
+}
+
+.zone4{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+
+.zone4 .num{
+	font: normal normal normal 80px/30px Poppins;
+	color: #EA516F;
+}
+
+.zone4 .info{
+	color: #EA516F;
+}
+
+.zone4 p{
+	font: normal normal normal 20px/30px Poppins;
+}
+
+.zone4 .col{
+	flex-grow: 0;
+}
+
+.zone5{
+	height: 501px;
+}
+
+.zone5 .content{
+	padding-left: 6vw;
+}
+
+.zone5 .big{
+	font: normal normal normal 50px/60px Poppins;
+	color: white;
+}
+.zone5 .small{
+	font: normal normal normal 20px/30px Poppins;
+	color: white;
+}
+
+.i4{
+	background-image: url("../../assets/images/Cruise ship ocean.jpg");
+	height: 501px;
+	background-position: unset;
+	background-size: cover;
+}
+
+.i5{
+	background-image: url("../../assets/images/Yacht blanc eaux calmes.jpg");
+	height: 501px;
+	background-position: center;
+	background-size: cover;
+}
+
+.zone6-1, .zone6-2{
+	background-color: #F5F5FA;
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+}
+
+.pad{
+	margin: auto;
+	padding-left: 5%;
+}
+
+.swap{
+	background-color: white;
+	width: 65px;
+	height: 65px;
+	border: none;
+	box-shadow: 20px 20px 40px #0000000D;
+	margin-left: 40px;
+}
+
+.argument{
+	position: absolute;
+	top: 60%;
+	left: 10%;
+}
+
+.nom{
+	font: normal normal normal 30px/60px Poppins;
+	color: white;
+	margin-bottom: 0px;
+}
+
+.année{
+	font: normal normal normal 20px/30px Poppins;
+	color: white;
+	margin-top: 0px;
+}
+
+.prix{
+	font: normal normal normal 20px/30px Poppins;
+	color: white;
+}
+
+.argent{
+	color: #EA516F;
+}
+
+.i6{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+	filter: brightness(0.5);
+}
+
+.i7{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+	filter: brightness(0.5);
+}
+
+.zone6-2 .row{
+	margin-left: 5vw;
+}
+
+.i8{
+	/**background-image: url("../../assets/images/Homme equitation bateau mer.jpg");
+	height: 429px;
+	background-position: center;
+	background-size: cover;
+	margin-left: 20px;**/
+	width: 500px;
+	height: 400px;
+	object-fit: cover;
+	object-position: center;
+	filter: brightness(0.5);
+
+}
+
+.i9{
+	/**background-image: url("../../assets/images/Bateaux blancs ocean.jpg");
+	height: 429px;
+	background-position: center;
+	background-size: cover;
+	margin-left: 20px;**/
+	width: 500px;
+	height: 400px;
+	object-fit: cover;
+	object-position: center;
+	filter: brightness(0.5);
+}
+
+.overlay{
+	position: absolute;
+	top: 65%;
+	left: 7%;
+}
+
+.date{
+	color: #EA516F;
+	font: normal normal medium 15px/23px Poppins;
+	letter-spacing: 0.75px;
+}
+
+.titre{
+	text-align: left;
+	font: normal normal normal 24px/26px Poppins;
+	letter-spacing: -1.2px;
+	color: #FFFFFF;
+}
+
+.content h3{
+	margin-bottom: 5vh;
+}
+
+.zone7{
+	height: 500px;
+}
+
+.i10{
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+	object-position: center;
+	filter: brightness(0.5);
+}
+
+.zone7 .big{
+	font: normal normal normal 50px/60px Poppins;
+	color: white;
+}
+.zone7 .small{
+	font: normal normal normal 20px/30px Poppins;
+	color: white;
+}
+
+.zone7 .content{
+ 	position: absolute;
+ 	top: 11%;
+ 	left: 25%;
+ 	align-items: center;
+ 	text-align: center;
+}
+
+.zone7 .connexion{
+	margin-top: 3vh;
+}
+
+.zone7 .col{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.logo{
+	width: 50%;
+	height: 50%;
+}
+
+.zone8{
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+}
+
+.zone8 p{
+	font: normal normal medium 20px/46px Poppins;
+}
+
+.copyright{
+	font: normal normal normal 15px/23px Poppins;
+	margin-top: 50px;
+}
+
+.phone{
+	font: normal normal normal 30px/46px Poppins;
+	color: #EA516F;
+}
+
+.social svg{
+	margin-left: 10px;
+}
+
+/**CODE POUR LE SLIDER**/
+
+.parameter{
+	font: normal normal bold 14px/21px Poppins;
+	color: black;
+}
+
+.slider-container {
+  position: relative;
+  width: 300px; /* Largeur du slider */
+}
+
+.slider {
+  position: absolute;
+  width: 100%;
+  height: 10px; /* Hauteur du slider */
+  background: #d3d3d3; /* Couleur de fond du slider */
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px; /* Largeur du bouton du slider */
+  height: 20px; /* Hauteur du bouton du slider */
+  background: #EA516F; /* Couleur du bouton du slider */
+  cursor: pointer;
+  border-radius: 50%; /* Forme du bouton du slider */
+}
+
+.slider-handle {
+  position: absolute;
+  width: 20px; /* Largeur du handle */
+  height: 20px; /* Hauteur du handle */
+  background-color: #4caf50; /* Couleur du handle */
+  border-radius: 50%; /* Forme du handle */
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#handle1 {
+  left: calc(25% - 10px); /* Position horizontale du premier handle */
+}
+
+#handle2 {
+  left: calc(75% - 10px); /* Position horizontale du deuxième handle */
+}
+
+.wrapper{
+  width: 200px;
+  height: 120px;
+  background: #fff;
+  padding: 20px 25px 00px;
+}
+
+.price-input{
+  width: 100%;
+  display: flex;
+  margin: 15px 0 20px;
+}
+
+.price-input .field{
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.field input{
+  width: 100%;
+  height: 100%;
+  outline: none;
+  font-size: 19px;
+  margin-left: 0px;
+  border-radius: 5px;
+  border: none;
+  -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.price-input .separator{
+  width: 130px;
+  display: flex;
+  font-size: 19px;
+  align-items: center;
+  justify-content: center;
+}
+
+.slider{
+  height: 5px;
+  position: relative;
+  background: #ddd;
+  border-radius: 5px;
+}
+
+.slider .progress{
+  height: 100%;
+  left: 0%;
+  right: 0%;
+  position: absolute;
+  border-radius: 5px;
+  background: #EA516F;
+}
+
+.range-input{
+  position: relative;
+}
+
+.range-input input{
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  top: -5px;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-thumb{
+  height: 17px;
+  width: 17px;
+  border-radius: 50%;
+  background: #EA516F;
+  pointer-events: auto;
+  -webkit-appearance: none;
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+input[type="range"]::-moz-range-thumb{
+  height: 17px;
+  width: 17px;
+  border: none;
+  border-radius: 50%;
+  background: #EA516F;
+  pointer-events: auto;
+  -moz-appearance: none;
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+  }
+
+.input-max{
+	text-align: end;
+}
+
+}
+
+/**CODE POUR LE DEUXIEME SLIDER**/
+
+.parameter{
+	font: normal normal bold 14px/21px Poppins;
+	color: black;
+}
+
+.slider-container {
+  position: relative;
+  width: 300px; /* Largeur du slider */
+}
+
+.slider2 {
+  position: absolute;
+  width: 100%;
+  height: 10px; /* Hauteur du slider */
+  background: #d3d3d3; /* Couleur de fond du slider */
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider2::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px; /* Largeur du bouton du slider */
+  height: 20px; /* Hauteur du bouton du slider */
+  background: #EA516F; /* Couleur du bouton du slider */
+  cursor: pointer;
+  border-radius: 50%; /* Forme du bouton du slider */
+}
+
+.slider-handle {
+  position: absolute;
+  width: 20px; /* Largeur du handle */
+  height: 20px; /* Hauteur du handle */
+  background-color: #4caf50; /* Couleur du handle */
+  border-radius: 50%; /* Forme du handle */
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#handle1 {
+  left: calc(25% - 10px); /* Position horizontale du premier handle */
+}
+
+#handle2 {
+  left: calc(75% - 10px); /* Position horizontale du deuxième handle */
+}
+
+.price-input2{
+  width: 100%;
+  display: flex;
+  margin: 15px 0 20px;
+}
+
+.price-input2 .field{
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.price-input2 .separator{
+  width: 130px;
+  display: flex;
+  font-size: 19px;
+  align-items: center;
+  justify-content: center;
+}
+
+.slider2{
+  height: 5px;
+  position: relative;
+  background: #ddd;
+  border-radius: 5px;
+}
+
+.slider2 .progress2{
+  height: 100%;
+  left: 0%;
+  right: 0%;
+  position: absolute;
+  border-radius: 5px;
+  background: #EA516F;
+}
+
+.range-input2{
+  position: relative;
+}
+
+.range-input2 input{
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  top: -5px;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-thumb{
+  height: 17px;
+  width: 17px;
+  border-radius: 50%;
+  background: #EA516F;
+  pointer-events: auto;
+  -webkit-appearance: none;
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+input[type="range"]::-moz-range-thumb{
+  height: 17px;
+  width: 17px;
+  border: none;
+  border-radius: 50%;
+  background: #EA516F;
+  pointer-events: auto;
+  -moz-appearance: none;
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+/**CODE POUR LE TROISIEME SLIDER**/
+
+.parameter{
+	font: normal normal bold 14px/21px Poppins;
+	color: black;
+}
+
+.slider-container {
+  position: relative;
+  width: 300px; /* Largeur du slider */
+}
+
+.slider3 {
+  position: absolute;
+  width: 100%;
+  height: 10px; /* Hauteur du slider */
+  background: #d3d3d3; /* Couleur de fond du slider */
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider3::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px; /* Largeur du bouton du slider */
+  height: 20px; /* Hauteur du bouton du slider */
+  background: #EA516F; /* Couleur du bouton du slider */
+  cursor: pointer;
+  border-radius: 50%; /* Forme du bouton du slider */
+}
+
+.slider-handle {
+  position: absolute;
+  width: 20px; /* Largeur du handle */
+  height: 20px; /* Hauteur du handle */
+  background-color: #4caf50; /* Couleur du handle */
+  border-radius: 50%; /* Forme du handle */
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#handle1 {
+  left: calc(25% - 10px); /* Position horizontale du premier handle */
+}
+
+#handle2 {
+  left: calc(75% - 10px); /* Position horizontale du deuxième handle */
+}
+
+.price-input3{
+  width: 100%;
+  display: flex;
+  margin: 15px 0 20px;
+}
+
+.price-input3 .field{
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.price-input3 .separator{
+  width: 130px;
+  display: flex;
+  font-size: 19px;
+  align-items: center;
+  justify-content: center;
+}
+
+.slider3{
+  height: 5px;
+  position: relative;
+  background: #ddd;
+  border-radius: 5px;
+}
+
+.slider3 .progress3{
+  height: 100%;
+  left: 0%;
+  right: 0%;
+  position: absolute;
+  border-radius: 5px;
+  background: #EA516F;
+}
+
+.range-input3{
+  position: relative;
+}
+
+.range-input3 input{
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  top: -5px;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-thumb{
+  height: 17px;
+  width: 17px;
+  border-radius: 50%;
+  background: #EA516F;
+  pointer-events: auto;
+  -webkit-appearance: none;
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+input[type="range"]::-moz-range-thumb{
+  height: 17px;
+  width: 17px;
+  border: none;
+  border-radius: 50%;
+  background: #EA516F;
+  pointer-events: auto;
+  -moz-appearance: none;
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+/**Boutton de recherche pour les paramètres**/
+
+.research{
+	background-color: #EA516F;
+	height: 70%;
+	width: 70%;
+	border: none;
+}
+
+.bi-search{
+	color: white;
+}
+
+.subpage{
+	background-color: white;
+	border: none;
+	padding: 10px 30px 10px;
+}
+
+.subpage:active{
+	background-color: #EA516F;
+	color: white;
+}
+
+.caché {
+    display: none !important;
+}
+
+.activation{
+	background-color: #EA516F;
+	color: white;
+}
+
+/**PASSAGE SUR MOBILE**/
+
+@media (max-width: 1250px){
+
+	.mt10{
+		margin-left: 12vw;
+	}
+
+	.mt2{
+		margin-left: 12vw;
+	}
+
+	.i1{
+		width: 100%;
+	}
+
+
+	.i2{
+		transform: none;
+	}
+
+	.zone7 .content {
+    left: 0;
+	}
+
+	.i8{
+		width: 95%;
+	}
+
+	.i9{
+		width: 95%;
+	}
+
+	.content{
+		align-items: center;
+	}
+
+	.content h3 {
+    	margin-bottom: 2vh;
+	}
+
+	.content h2 {
+    	margin-top: 2vh;
+	}
+
+	.pad{
+		align-items: center;
+	}
+
+}
