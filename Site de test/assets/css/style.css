@@ -296,7 +296,7 @@ ul{
 .overlay{
 	position: absolute;
 	top: 65%;
-	left: 7%;
+	left: 5%;
 }
 
 .date{
@@ -870,6 +870,11 @@ input[type="range"]::-moz-range-thumb{
 
 	.pad{
 		align-items: center;
+		margin-bottom: 2vh;
+	}
+
+	.overlay{
+		left: 7%;
 	}
 
 }

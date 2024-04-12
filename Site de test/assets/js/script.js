@@ -1,3 +1,5 @@
+/**CODE POUR LES SLIDERS**/
+
 const rangeInput = document.querySelectorAll(".range-input input"),
 priceInput = document.querySelectorAll(".price-input input"),
 range = document.querySelector(".slider .progress");
@@ -135,32 +137,7 @@ rangeInput3.forEach(input =>{
     });
 });
 
-/**$(document).ready(function(){
-    //Inverse l'état de visibilité de h1 lors d'un clic sur #b1     
-    $("#b1").click(function(){
-        $("#T1").toggle();
-        $("#T2").css("display", "none !important");
-        $("#T3").css("display", "none !important");
-    });
-});
-
-$(document).ready(function(){
-    //Inverse l'état de visibilité de T2 lors d'un clic sur #b2     
-    $("#b2").click(function(){
-        $("#T2").css("display", "flex !important");
-        $("#T1").css("display", "none !important");
-        $("#T3").css("display", "none !important");
-    });
-});
-
-$(document).ready(function(){
-    //Inverse l'état de visibilité de T3 lors d'un clic sur #b3     
-    $("#b3").click(function(){
-        $("#T3").toggle();
-        $("#T1").css("display", "none !important");
-        $("#T2").css("display", "none !important");
-    });
-});**/
+/**CODE POUR CHANGER LA CATEGORIE AVEC LES SLIDERS**/
 
 var maDiv = document.getElementById("T1");
 var maDiv2 = document.getElementById("T2");
