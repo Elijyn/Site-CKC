@@ -124,21 +124,21 @@ ul{
 
 
 .part1{
-	position: absolute;
-	top: 70%;
-	left: 15%;
+	position: relative;
+	top: -30%;
+	left: 10%;
 }
 
 .part2{
-	position: absolute;
-	top: 70%;
-	left: 15%;
+	position: relative;
+	top: -30%;
+	left: 10%;
 }
 
 .part3{
-	position: absolute;
-	top: 70%;
-	left: 20%;
+	position: relative;
+	top: -30%;
+	left: 10%;
 }
 
 .zone3 p{
@@ -338,9 +338,8 @@ ul{
 }
 
 .zone7 .content{
- 	position: absolute;
- 	top: 11%;
- 	left: 25%;
+ 	position: relative;
+ 	top: -50%;
  	align-items: center;
  	text-align: center;
 }
