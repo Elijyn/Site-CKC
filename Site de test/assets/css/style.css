@@ -36,6 +36,7 @@ ul{
 	width: 110%;
 }
 
+
 .zone1{
 	background-image: url("../../assets/images/Bateausurplandeau.jpg");
 	background-position: center;
@@ -51,6 +52,10 @@ ul{
 
 .mt10{
 	margin-top: 10%;
+}
+
+.selector{
+	margin-left: 22.5%;
 }
 
 .categorie{
@@ -124,21 +129,21 @@ ul{
 
 
 .part1{
-	position: relative;
-	top: -30%;
-	left: 10%;
+	position: absolute;
+	transform: translate(15%, -150%);
+  z-index: 1
 }
 
 .part2{
-	position: relative;
-	top: -30%;
-	left: 10%;
+	position: absolute;
+	transform: translate(15%, -150%);
+  z-index: 1
 }
 
 .part3{
-	position: relative;
-	top: -30%;
-	margin-left: 10%;
+	position: absolute;
+	transform: translate(15%, -150%);
+  z-index: 1
 }
 
 .zone3 p{
@@ -221,7 +226,7 @@ ul{
 
 .argument{
 	position: absolute;
-	top: 60%;
+	transform: translate(90%,-50%);
 	left: 10%;
 }
 
@@ -826,9 +831,6 @@ input[type="range"]::-moz-range-thumb{
 
 @media (max-width: 1250px){
 
-	.mt10{
-		margin-left: 12vw;
-	}
 
 	.mt2{
 		margin-left: 12vw;
