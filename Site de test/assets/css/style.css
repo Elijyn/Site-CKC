@@ -226,8 +226,7 @@ ul{
 
 .argument{
 	position: absolute;
-	transform: translate(90%,-50%);
-	left: 10%;
+	transform: translate(15%,-100%);
 }
 
 .nom{
@@ -300,8 +299,7 @@ ul{
 
 .overlay{
 	position: absolute;
-	top: 65%;
-	left: 5%;
+	transform: translate(5%, -100%);
 }
 
 .date{
